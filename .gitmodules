@@ -1,0 +1,3 @@
+[submodule "cloud-sql-postgresql"]
+	path = cloud-sql-postgresql
+	url = https://github.com/gemini-cli-extensions/cloud-sql-postgresql
