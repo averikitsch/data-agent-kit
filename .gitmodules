@@ -6,10 +6,6 @@
 	path = alloydb-omni
 	url = https://github.com/gemini-cli-extensions/alloydb-omni
 	branch = 0.2.1
-[submodule "bigquery-data-analytics"]
-	path = bigquery-data-analytics
-	url = https://github.com/gemini-cli-extensions/bigquery-data-analytics
-	branch = 0.2.1
 [submodule "cloud-sql-mysql"]
 	path = cloud-sql-mysql
 	url = https://github.com/gemini-cli-extensions/cloud-sql-mysql
@@ -37,15 +33,7 @@
 [submodule "firestore-native"]
 	path = firestore-native
 	url = https://github.com/gemini-cli-extensions/firestore-native
-	branch = 0.3.0
-[submodule "dataproc"]
-	path = dataproc
-	url = https://github.com/gemini-cli-extensions/dataproc
-	branch = 0.1.0
-[submodule "knowledge-catalog"]
-	path = knowledge-catalog
-	url = https://github.com/gemini-cli-extensions/knowledge-catalog
-	branch = 0.5.1
+	branch = 0.2.0
 [submodule "data-agent-kit-starter-pack"]
 	path = data-agent-kit-starter-pack
 	url = https://github.com/gemini-cli-extensions/data-agent-kit-starter-pack

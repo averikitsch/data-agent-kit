@@ -23,6 +23,13 @@
         "github-actions"
       ],
       "pinDigests": true
+    },
+    {
+      "matchManagers": [
+        "git-submodules"
+      ],
+      "groupName": "{{depName}} plugin",
+      "semanticCommitType": "feat"
     }
   ]
 }
