@@ -28,8 +28,17 @@
       "matchManagers": [
         "git-submodules"
       ],
-      "groupName": "{{depName}} plugin",
+      "groupName": "{{depName}} plugins",
       "semanticCommitType": "feat"
+    },
+    {
+      "matchManagers": [
+        "git-submodules"
+      ],
+      "matchUpdateTypes": [
+        "digest"
+      ],
+      "enabled": false
     }
   ]
 }
