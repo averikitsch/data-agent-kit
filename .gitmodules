@@ -1,7 +1,7 @@
 [submodule "alloydb"]
 	path = alloydb
 	url = https://github.com/gemini-cli-extensions/alloydb
-	branch = 0.2.0
+	branch = 0.1.0
 [submodule "alloydb-omni"]
 	path = alloydb-omni
 	url = https://github.com/gemini-cli-extensions/alloydb-omni
@@ -25,7 +25,7 @@
 [submodule "looker"]
 	path = looker
 	url = https://github.com/gemini-cli-extensions/looker
-	branch = 0.3.4
+	branch = 0.3.0
 [submodule "oracledb"]
 	path = oracledb
 	url = https://github.com/gemini-cli-extensions/oracledb
