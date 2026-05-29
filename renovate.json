@@ -28,7 +28,7 @@
       "matchManagers": [
         "git-submodules"
       ],
-      "groupName": "{{depName}} plugins",
+      "groupName": "{{depName}} plugin",
       "semanticCommitType": "feat"
     },
     {
